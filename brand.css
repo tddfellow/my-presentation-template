@@ -4,3 +4,9 @@
   left: 10px;
   z-order: 100000;
 }
+
+.brand > .logo {
+	height: 45px;
+	margin-right: 5px;
+	float: left;
+}
