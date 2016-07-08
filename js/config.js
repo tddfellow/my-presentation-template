@@ -6,6 +6,7 @@
     progress: true,
     history: true,
     center: true,
+    slideNumber: true,
 
     transition: 'slide', // none/fade/slide/convex/concave/zoom
 
