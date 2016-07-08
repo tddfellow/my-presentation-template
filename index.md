@@ -2,7 +2,15 @@
 
 _(style guide edition)_
 
-by That TDD Fellow
+
+
+<img src="../my-presentation-template/me.jpeg" class="photo-me">
+
+## Oleksii Fedorov
+
+Software Craftsperson
+
+@ Pivotal Labs - Berlin
 
 @waterlink000
 
