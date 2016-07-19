@@ -5,14 +5,14 @@
  * Copyright (C) 2015 Hakim El Hattab, http://hakim.se
  */
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
-  color: #fff; }
+  color: #f9f9f9; }
 
 /*********************************************
  * GLOBAL STYLES
  *********************************************/
 body {
-  background: #fff;
-  background-color: #fff; }
+  background: #f9f9f9;
+  background-color: #f9f9f9; }
 
 .reveal {
   font-family: "Exo 2", "Verdana", sans-serif;
@@ -21,7 +21,7 @@ body {
   color: #222; }
 
 ::selection {
-  color: #fff;
+  color: #f9f9f9;
   background: #98bdef;
   text-shadow: none; }
 
@@ -192,7 +192,7 @@ body {
   border: none; }
 
 .reveal .roll span:after {
-  color: #fff;
+  color: #f9f9f9;
   background: #1a54a1; }
 
 /*********************************************
